@@ -1,0 +1,8 @@
+vendor: Rafay Systems
+name: Rafay
+version: v1.0.7
+website_url: https://rafay.co/
+documentation_url: https://console.rafay-edge.net/docs/
+product_logo_url: https://github.com/RafaySystems/k8s-conformance/tree/master/v1.14/Rafay/Rafay_Logo.svg
+type: hosted
+description: Rafay intent-based placement lets you distribute containerized apps to one or many K8s clusters.
