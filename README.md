@@ -10,8 +10,8 @@ You can use your own private clusters or a Rafay sandbox of clusters. To
 reproduce the certification results you will need kubectl access (and more), so
 you must use a private cluster (not the sandbox, which are Rafay-managed).
 Instructions for joining a cluster to the Rafay system is in the [product
-documentation](https://console.rafay-edge.net/docs/cluster-deploy/) (requires
-login access, but you may create a free account).
+documentation](https://app.rafay.dev/docs/cluster-deploy/) (requires login
+access, but you may create a free account).
 
 ## Steps to Reproduce
 
